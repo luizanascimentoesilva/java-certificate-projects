@@ -15,13 +15,12 @@ public class ConversorTemperaturas {
             do {
                 String line = scan.nextLine();
                 String[] lineParsed = line.split("[CF]");
-                lineParsed[0] = lineParsed[0].replaceAll("[,]", ".");
+                lineParsed[0] = lineParsed[0].replace(",", ".");
                 
-                if (line.contains("C")) {
-                    System.out.printf("%,.2fF%n",toFarenheit(Double.parseDouble(lineParsed[0])));
-
-                } else if (line.contains("F")) {
-                    System.out.printf("%,.2fC%n", toCelsius(Double.parseDouble(lineParsed[0])));
+                if(line.contains("C")) {
+                        System.out.printf("%,.2fF%n",toFarenheit(Double.parseDouble(lineParsed[0])));
+                } else if(line.contains("F")) {
+                        System.out.printf("%,.2fC%n", toCelsius(Double.parseDouble(lineParsed[0])));
                 } else {
                     throw new Exception("Opção inexistente");
                 }
