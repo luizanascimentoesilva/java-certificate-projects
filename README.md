@@ -11,8 +11,6 @@ O nível de dificuldade dos projetos vão de:
 - Calculadora Simples - 5
 - Conversor de Temperatura - 5
 - Contador de Vogais - 5
-- Calculadora de Média - 5
-- Verificador de Palíndromo - 4
 - Sistema de Gerenciamento de Livros - 4
 - Processamento de Arquivos CSV - 4
 - Processamento de Dados de Vendas - 4
