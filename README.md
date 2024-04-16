@@ -5,7 +5,7 @@ O nível de dificuldade dos projetos vão de:
 - 1 - Muito complicado
 - 5 - Muito fácil
 
->**Alguns projetos precisarão de melhorias, mas por causa do tempo disponível isso será realizado no futuro, sendo que o ReadMe do projeto indicará essas alterações necessárias.**
+>**Alguns projetos precisarão de melhorias, mas por causa do tempo disponível isso será realizado no futuro, sendo que o ReadMe do projeto indicará essas alterações.**
 
 ## Projetos e Avaliação Inicial de Dificuldade
 - Calculadora Simples - 5
